@@ -1,0 +1,34 @@
+# minimal-tux theme for SLiM
+# misha.thegoat@gmail.com
+
+# Messages (ie: shutdown)
+msg_color               #444444
+msg_font                Sans:size=16:dpi=75
+msg_x                   57%
+msg_y                   48%
+msg_shadow_xoffset 		0
+msg_shadow_yoffset 		0
+
+# valid values: stretch, tile
+background_style        stretch
+background_color        #096B7D
+
+# Input controls
+input_panel_x           50%
+input_panel_y           50%
+input_name_x            220
+input_name_y            90
+input_font          	Sans:size=16:dpi=75
+input_fgcolor           #444444
+input_color				#e50000
+
+# Username / password request
+username_font          	Sans:size=16:dpi=75
+username_color        	#444444
+username_x              125
+username_y              90
+password_x              125
+password_y              90
+
+username_msg            Username 
+password_msg            Password 
